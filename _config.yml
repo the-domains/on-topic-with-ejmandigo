@@ -1,0 +1,28 @@
+name: On Topic with EJMandigo
+favicon: null
+layout_spectrum: 0.9669512144755572
+typography_spectrum: 0.2920543549116701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9856307010632008
+  lightness: 0.9210977167822421
+  saturation: 0.6464857051614672
+  rhythmicContrast: 0.36669539706781507
+purpose: []
