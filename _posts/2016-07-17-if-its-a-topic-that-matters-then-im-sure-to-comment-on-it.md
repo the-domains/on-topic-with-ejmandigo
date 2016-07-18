@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-07-17T22:44:53.080Z'
-datePublished: '2016-07-17T22:45:23.021Z'
+dateModified: '2016-07-18T00:06:53.375Z'
+datePublished: '2016-07-18T00:07:02.990Z'
 description: >-
   If it's a topic that matters then I'm sure to comment on it here. If it is
   something I believe strongly about, you will read it here. I believe I'm fair,
